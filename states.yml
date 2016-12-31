@@ -1,256 +1,205 @@
 ---
-states_043:
-  name: Michigan
+- name: Michigan
   country_id: "49"
   id: "43"
   abbr: MI
-states_032:
-  name: South Dakota
+- name: South Dakota
   country_id: "49"
   id: "32"
   abbr: SD
-states_021:
-  name: Washington
+- name: Washington
   country_id: "49"
   id: "21"
   abbr: WA
-states_010:
-  name: Wisconsin
+- name: Wisconsin
   country_id: "49"
   id: "10"
   abbr: WI
-states_044:
-  name: Arizona
+- name: Arizona
   country_id: "49"
   id: "44"
   abbr: AZ
-states_033:
-  name: Illinois
+- name: Illinois
   country_id: "49"
   id: "33"
   abbr: IL
-states_022:
-  name: New Hampshire
+- name: New Hampshire
   country_id: "49"
   id: "22"
   abbr: NH
-states_011:
-  name: North Carolina
+- name: North Carolina
   country_id: "49"
   id: "11"
   abbr: NC
-states_045:
-  name: Kansas
+- name: Kansas
   country_id: "49"
   id: "45"
   abbr: KS
-states_034:
-  name: Missouri
+- name: Missouri
   country_id: "49"
   id: "34"
   abbr: MO
-states_023:
-  name: Arkansas
+- name: Arkansas
   country_id: "49"
   id: "23"
   abbr: AR
-states_012:
-  name: Nevada
+- name: Nevada
   country_id: "49"
   id: "12"
   abbr: NV
-states_001:
-  name: District of Columbia
+- name: District of Columbia
   country_id: "49"
   id: "01"
   abbr: DC
-states_046:
-  name: Idaho
+- name: Idaho
   country_id: "49"
   id: "46"
   abbr: ID
-states_035:
-  name: Nebraska
+- name: Nebraska
   country_id: "49"
   id: "35"
   abbr: NE
-states_024:
-  name: Pennsylvania
+- name: Pennsylvania
   country_id: "49"
   id: "24"
   abbr: PA
-states_013:
-  name: Hawaii
+- name: Hawaii
   country_id: "49"
   id: "13"
   abbr: HI
-states_002:
-  name: Utah
+- name: Utah
   country_id: "49"
   id: "02"
   abbr: UT
-states_047:
-  name: Vermont
+- name: Vermont
   country_id: "49"
   id: "47"
   abbr: VT
-states_036:
-  name: Delaware
+- name: Delaware
   country_id: "49"
   id: "36"
   abbr: DE
-states_025:
-  name: Rhode Island
+- name: Rhode Island
   country_id: "49"
   id: "25"
   abbr: RI
-states_014:
-  name: Oklahoma
+- name: Oklahoma
   country_id: "49"
   id: "14"
   abbr: OK
-states_003:
-  name: Louisiana
+- name: Louisiana
   country_id: "49"
   id: "03"
   abbr: LA
-states_048:
-  name: Montana
+- name: Montana
   country_id: "49"
   id: "48"
   abbr: MT
-states_037:
-  name: Tennessee
+- name: Tennessee
   country_id: "49"
   id: "37"
   abbr: TN
-states_026:
-  name: Maryland
+- name: Maryland
   country_id: "49"
   id: "26"
   abbr: MD
-states_015:
-  name: Florida
+- name: Florida
   country_id: "49"
   id: "15"
   abbr: FL
-states_004:
-  name: Virginia
+- name: Virginia
   country_id: "49"
   id: "04"
   abbr: VA
-states_049:
-  name: Minnesota
+- name: Minnesota
   country_id: "49"
   id: "49"
   abbr: MN
-states_038:
-  name: New Jersey
+- name: New Jersey
   country_id: "49"
   id: "38"
   abbr: NJ
-states_027:
-  name: Ohio
+- name: Ohio
   country_id: "49"
   id: "27"
   abbr: OH
-states_016:
-  name: California
+- name: California
   country_id: "49"
   id: "16"
   abbr: CA
-states_005:
-  name: North Dakota
+- name: North Dakota
   country_id: "49"
   id: "05"
   abbr: ND
-states_050:
-  name: Maine
+- name: Maine
   country_id: "49"
   id: "50"
   abbr: ME
-states_039:
-  name: Indiana
+- name: Indiana
   country_id: "49"
   id: "39"
   abbr: IN
-states_028:
-  name: Texas
+- name: Texas
   country_id: "49"
   id: "28"
   abbr: TX
-states_017:
-  name: Oregon
+- name: Oregon
   country_id: "49"
   id: "17"
   abbr: OR
-states_006:
-  name: Wyoming
+- name: Wyoming
   country_id: "49"
   id: "06"
   abbr: WY
-states_051:
-  name: Alabama
+- name: Alabama
   country_id: "49"
   id: "51"
   abbr: AL
-states_040:
-  name: Iowa
+- name: Iowa
   country_id: "49"
   id: "40"
   abbr: IA
-states_029:
-  name: Mississippi
+- name: Mississippi
   country_id: "49"
   id: "29"
   abbr: MS
-states_018:
-  name: Kentucky
+- name: Kentucky
   country_id: "49"
   id: "18"
   abbr: KY
-states_007:
-  name: New Mexico
+- name: New Mexico
   country_id: "49"
   id: "07"
   abbr: NM
-states_041:
-  name: Georgia
+- name: Georgia
   country_id: "49"
   id: "41"
   abbr: GA
-states_030:
-  name: Colorado
+- name: Colorado
   country_id: "49"
   id: "30"
   abbr: CO
-states_019:
-  name: Massachusetts
+- name: Massachusetts
   country_id: "49"
   id: "19"
   abbr: MA
-states_008:
-  name: Connecticut
+- name: Connecticut
   country_id: "49"
   id: "08"
   abbr: CT
-states_042:
-  name: New York
+- name: New York
   country_id: "49"
   id: "42"
   abbr: NY
-states_031:
-  name: South Carolina
+- name: South Carolina
   country_id: "49"
   id: "31"
   abbr: SC
-states_020:
-  name: Alaska
+- name: Alaska
   country_id: "49"
   id: "20"
   abbr: AK
-states_009:
-  name: West Virginia
+- name: West Virginia
   country_id: "49"
   id: "09"
   abbr: WV
