@@ -139,10 +139,10 @@ states_004:
   country_id: "49"
   id: "04"
   abbr: VA
-states_0"49":
+states_049:
   name: Minnesota
   country_id: "49"
-  id: ""49""
+  id: "49"
   abbr: MN
 states_038:
   name: New Jersey
